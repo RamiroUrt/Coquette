@@ -16,7 +16,7 @@ const Galery = () => {
     <>
       <div className="galery">
         <ImageList 
-          sx={{ width: '100%', height: 'auto' }}
+          sx={{ width: '60%', height: 'auto' }}
           variant="quilted"
           cols={4}
           rowHeight={140}
