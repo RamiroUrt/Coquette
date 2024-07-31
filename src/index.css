@@ -458,6 +458,9 @@ footer{
 }
 
 @media (max-width: 576px) {
+  .contain-img{
+   width: 280px;
+  }
   .container-topic {
     max-width: 200px;
     height: 300px;
@@ -481,6 +484,9 @@ footer{
 }
 /* Responsive Styles */
 @media (max-width: 768px) {
+  .contain-img{
+    width: 280px;
+   }
   .desktop-nav {
     display: none;
   }
@@ -493,6 +499,7 @@ footer{
     align-items: center;
     flex-direction: column;
   }
+
   .contain-circle{
     width: 300px;
     display: flex;

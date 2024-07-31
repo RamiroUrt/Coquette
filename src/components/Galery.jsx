@@ -7,40 +7,43 @@ import ImageListItem from '@mui/material/ImageListItem';
 function srcset(image, size, rows = 1, cols = 1) {
   return {
     src: `${image}?w=${size * cols}&h=${size * rows}&fit=crop&auto=format`,
-    srcSet: `${image}&h=${
-      size * rows
-    }&fit=crop&auto=format&dpr=2 2x`,
+    srcSet: `${image}?w=${size * cols}&h=${size * rows}&fit=crop&auto=format&dpr=2 2x`,
   };
 }
+
 const Galery = () => {
   return (
     <>
-    <div className="galery">
-      <ImageList 
-        sx={{ width: 920, height: 580,}}
-        variant="quilted"
-        cols={4}
-        rowHeight={140}
-      >
-        {itemData.map((item) => (
-          <ImageListItem
-          className='img-galery'
-           key={item.img} cols={item.cols || 1} rows={item.rows || 1}>
-            <img
-              {...srcset(item.img, 121, item.rows, item.cols)}
-              alt={item.title}
-              loading="lazy"
-            />
-          </ImageListItem>
-        ))}
-      </ImageList>
-    </div>
+      <div className="galery">
+        <ImageList 
+          sx={{ width: '100%', height: 'auto' }}
+          variant="quilted"
+          cols={4}
+          rowHeight={140}
+        >
+          {itemData.map((item) => (
+            <ImageListItem
+              className='img-galery'
+              key={item.img} 
+              cols={item.cols || 1} 
+              rows={item.rows || 1}
+            >
+              <img
+                {...srcset(item.img, 121, item.rows, item.cols)}
+                alt={item.title}
+                loading="lazy"
+              />
+            </ImageListItem>
+          ))}
+        </ImageList>
+      </div>
       <div className="foot-galery">
         <Button />
       </div>
     </>
   );
 }
+
 
 export default Galery
 
