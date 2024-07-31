@@ -6,8 +6,14 @@ import Galery from '../components/Galery'
 import Footer from "../components/Footer"
 // import ParallaxHome from '../../public/img/ParallaxHome.png'
 import Header from "../components/Header"
+import { useEffect } from "react"
 
 const Home = () => {
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
     <>
       <Nav />

@@ -213,7 +213,6 @@ header{
 }
 
 .galery{
-  padding: 30px;
   width: 100%;
   padding-top: 9rem;
   padding-bottom: 3rem;
@@ -315,6 +314,7 @@ footer{
 }
 
 .footer-text{
+  padding-top: 2rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -478,6 +478,9 @@ footer{
   .img-footer img {
     max-width: 50%;
 }
+.gallery-img{
+  width: 100%;
+}
 .map{
   width: 380px;
 }
@@ -583,7 +586,7 @@ footer{
     margin: 0 auto;
   }
   footer{
-    gap: 2rem;
+    gap: 4rem;
     display: flex;
     flex-direction: column;
   }
