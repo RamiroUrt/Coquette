@@ -321,7 +321,8 @@ footer{
   align-items: center;
   text-align: center;
 }
-.footer-text > img {
+
+.footer-img{
   width: 100px;
 }
 .footer-title{
@@ -476,13 +477,19 @@ footer{
     margin: 0 auto;
   }
   .img-footer img {
-    max-width: 50%;
+    max-width: 50px;
 }
 .gallery-img{
   width: 100%;
 }
 .map{
   width: 380px;
+}
+footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 }
 /* Responsive Styles */
@@ -614,5 +621,10 @@ footer{
     }
     .p-cat{
       padding: 0;
+    }
+    footer{
+      display: flex;
+      justify-content: space-around;
+      gap: 2rem;
     }
 }

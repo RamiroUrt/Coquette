@@ -4,6 +4,8 @@ import LogoCircle from '../../public/img/logos/LgCircle-fotor.png'
 import Atropos from 'atropos/react';
 import ParticlesBackground from './ParticlesBg/ParticlesBackground';
 
+import Logo from '../../public/img/logos/LgCircle-fotor.png';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 const Header = () => {
   return (
@@ -16,7 +18,10 @@ const Header = () => {
                 shadow={false}
                 
                 >
-                    <img src={LogoCircle} alt="" className='contain-img' />
+                    <LazyLoadImage
+                    effect="blur"
+                    placeholderSrc={Logo}
+                     src={LogoCircle} alt="" className='contain-img' />
                 </Atropos>
                     <div className="tables">
                         <div className="table">
