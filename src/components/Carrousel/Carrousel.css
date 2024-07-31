@@ -1,0 +1,57 @@
+.carrousel {
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    overflow-x: auto;
+    cursor: grab;
+}
+
+.contenedor-carr {
+    width: auto;
+    max-width: 400px;
+    height: auto; /* Ajustar la altura para que se adapte al contenido */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-wrap: wrap;
+    padding: 20px;
+}
+
+.cont-text {
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 1rem;
+}
+
+.sup-text {
+    display: flex;
+    gap: 1rem;
+    font-size: 20px;
+    padding-bottom: 1rem;
+}
+
+.description-cont {
+    font-weight: 400;
+    margin-top: 0.5em;
+}
+
+svg {
+    margin: 0 auto;
+}
+
+.no-select {
+    user-select: none;
+}
+
+.carrousel.active {
+    cursor: grabbing;
+    cursor: -webkit-grabbing;
+}
