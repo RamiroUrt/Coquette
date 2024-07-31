@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import { useState } from 'react';
-import Lightbox from 'lightbox-react';
-import 'lightbox-react/style.css';
+import Lightbox from 'react-image-lightbox';
+import 'react-image-lightbox/style.css';
 
 import Card from '../../components/Card/Card';
 
@@ -10,6 +10,17 @@ const LightboxGallery = ({ data }) => {
   const [isOpen, setIsOpen] = useState(false);
   const images = data.map(image => image.url);
 
+  const handleOpen = (index) => {
+    console.log(`Opening lightbox at index ${index}`);
+    setPhotoIndex(index);
+    setIsOpen(true);
+  };
+
+  const handleClose = () => {
+    console.log('Closing lightbox');
+    setIsOpen(false);
+  };
+
   return (
     <div className="gallery">
       <div className="cont-gallery">
@@ -17,10 +28,7 @@ const LightboxGallery = ({ data }) => {
           {data.map((image, index) => (
             <div 
               key={image.id} 
-              onClick={() => {
-                setPhotoIndex(index);
-                setIsOpen(true);
-              }}
+              onClick={() => handleOpen(index)}
               style={{ cursor: 'pointer' }}
             >
               <Card img={image} />
@@ -34,7 +42,7 @@ const LightboxGallery = ({ data }) => {
           mainSrc={images[photoIndex]}
           nextSrc={images[(photoIndex + 1) % images.length]}
           prevSrc={images[(photoIndex + images.length - 1) % images.length]}
-          onCloseRequest={() => setIsOpen(false)}
+          onCloseRequest={handleClose}
           onMovePrevRequest={() =>
             setPhotoIndex((photoIndex + images.length - 1) % images.length)
           }

@@ -6,7 +6,9 @@ import 'atropos/css'
 
 import { BrowserRouter } from 'react-router-dom'
 
+import 'globalthis/auto';
 
+window.global = window;
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
@@ -15,5 +17,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     </BrowserRouter>
   </React.StrictMode>,
 )
-
-/*egresadas*/
