@@ -3,223 +3,223 @@
     {
       "id": 1,
       "name": "Image1",
-      "url": "../../public/img/Catalogues/Casamientos/1.jpg",
+      "url": "/img/Catalogues/Casamientos/1.jpg",
       "description": "Description of Image1"
     },
     {
       "id": 2,
       "name": "Image2",
-      "url": "../../public/img/Catalogues/Casamientos/2.jpg",
+      "url": "/img/Catalogues/Casamientos/2.jpg",
       "description": "Description of Image2"
     },
     {
       "id": 3,
       "name": "Image3",
-      "url": "../../public/img/Catalogues/Casamientos/3.jpg",
+      "url": "/img/Catalogues/Casamientos/3.jpg",
       "description": "Description of Image3"
     },
     {
       "id": 4,
       "name": "Image4",
-      "url": "../../public/img/Catalogues/Casamientos/4.png",
+      "url": "/img/Catalogues/Casamientos/4.png",
       "description": "Description of Image4"
     },
     {
       "id": 5,
       "name": "Image5",
-      "url": "../../public/img/Catalogues/Casamientos/5.png",
+      "url": "/img/Catalogues/Casamientos/5.png",
       "description": "Description of Image5"
     },
     {
       "id": 7,
       "name": "Image7",
-      "url": "../../public/img/Catalogues/Casamientos/7.jpg",
+      "url": "/img/Catalogues/Casamientos/7.jpg",
       "description": "Description of Image7"
     },
     {
       "id": 8,
       "name": "Image8",
-      "url": "../../public/img/Catalogues/Casamientos/8.jpg",
+      "url": "/img/Catalogues/Casamientos/8.jpg",
       "description": "Description of Image8"
     },
     {
       "id": 9,
       "name": "Image9",
-      "url": "../../public/img/Catalogues/Casamientos/9.jpg",
+      "url": "/img/Catalogues/Casamientos/9.jpg",
       "description": "Description of Image9"
     },
     {
       "id": 10,
       "name": "Image10",
-      "url": "../../public/img/Catalogues/Casamientos/10.jpg",
+      "url": "/img/Catalogues/Casamientos/10.jpg",
       "description": "Description of Image10"
     },
     {
       "id": 11,
       "name": "Image11",
-      "url": "../../public/img/Catalogues/Casamientos/11.jpg",
+      "url": "/img/Catalogues/Casamientos/11.jpg",
       "description": "Description of Image11"
     },
     {
       "id": 12,
       "name": "Image12",
-      "url": "../../public/img/Catalogues/Casamientos/12.jpg",
+      "url": "/img/Catalogues/Casamientos/12.jpg",
       "description": "Description of Image12"
     },
     {
       "id": 13,
       "name": "Image13",
-      "url": "../../public/img/Catalogues/Casamientos/13.png",
+      "url": "/img/Catalogues/Casamientos/13.png",
       "description": "Description of Image13"
     },
     {
       "id": 14,
       "name": "Image14",
-      "url": "../../public/img/Catalogues/Casamientos/14.png",
+      "url": "/img/Catalogues/Casamientos/14.png",
       "description": "Description of Image14"
     },
     {
       "id": 15,
       "name": "Image15",
-      "url": "../../public/img/Catalogues/Casamientos/15.png",
+      "url": "/img/Catalogues/Casamientos/15.png",
       "description": "Description of Image15"
     },
     {
       "id": 16,
       "name": "Image16",
-      "url": "../../public/img/Catalogues/Casamientos/16.jpg",
+      "url": "/img/Catalogues/Casamientos/16.jpg",
       "description": "Description of Image16"
     },
     {
       "id": 17,
       "name": "Image17",
-      "url": "../../public/img/Catalogues/Casamientos/17.jpg",
+      "url": "/img/Catalogues/Casamientos/17.jpg",
       "description": "Description of Image17"
     },
     {
       "id": 18,
       "name": "Image18",
-      "url": "../../public/img/Catalogues/Casamientos/18.jpg",
+      "url": "/img/Catalogues/Casamientos/18.jpg",
       "description": "Description of Image18"
     },
     {
       "id": 19,
       "name": "Image19",
-      "url": "../../public/img/Catalogues/Casamientos/19.png",
+      "url": "/img/Catalogues/Casamientos/19.png",
       "description": "Description of Image19"
     },
     {
       "id": 20,
       "name": "Image20",
-      "url": "../../public/img/Catalogues/Casamientos/20.png",
+      "url": "/img/Catalogues/Casamientos/20.png",
       "description": "Description of Image20"
     },
     {
       "id": 21,
       "name": "Image21",
-      "url": "../../public/img/Catalogues/Casamientos/21.png",
+      "url": "/img/Catalogues/Casamientos/21.png",
       "description": "Description of Image21"
     },
     {
       "id": 22,
       "name": "Image22",
-      "url": "../../public/img/Catalogues/Casamientos/22.jpg",
+      "url": "/img/Catalogues/Casamientos/22.jpg",
       "description": "Description of Image22"
     },
     {
       "id": 23,
       "name": "Image23",
-      "url": "../../public/img/Catalogues/Casamientos/23.jpg",
+      "url": "/img/Catalogues/Casamientos/23.jpg",
       "description": "Description of Image23"
     },
     {
       "id": 24,
       "name": "Image24",
-      "url": "../../public/img/Catalogues/Casamientos/24.jpg",
+      "url": "/img/Catalogues/Casamientos/24.jpg",
       "description": "Description of Image24"
     },
     {
       "id": 25,
       "name": "Image25",
-      "url": "../../public/img/Catalogues/Casamientos/25.jpg",
+      "url": "/img/Catalogues/Casamientos/25.jpg",
       "description": "Description of Image25"
     },
     {
       "id": 26,
       "name": "Image26",
-      "url": "../../public/img/Catalogues/Casamientos/26.jpg",
+      "url": "/img/Catalogues/Casamientos/26.jpg",
       "description": "Description of Image26"
     },
     {
       "id": 27,
       "name": "Image27",
-      "url": "../../public/img/Catalogues/Casamientos/27.jpg",
+      "url": "/img/Catalogues/Casamientos/27.jpg",
       "description": "Description of Image27"
     },
     {
       "id": 28,
       "name": "Image28",
-      "url": "../../public/img/Catalogues/Casamientos/28.jpg",
+      "url": "/img/Catalogues/Casamientos/28.jpg",
       "description": "Description of Image28"
     },
     {
       "id": 29,
       "name": "Image29",
-      "url": "../../public/img/Catalogues/Casamientos/29.jpg",
+      "url": "/img/Catalogues/Casamientos/29.jpg",
       "description": "Description of Image29"
     },
     {
       "id": 30,
       "name": "Image30",
-      "url": "../../public/img/Catalogues/Casamientos/30.jpg",
+      "url": "/img/Catalogues/Casamientos/30.jpg",
       "description": "Description of Image30"
     },
     {
       "id": 31,
       "name": "Image31",
-      "url": "../../public/img/Catalogues/Casamientos/31.jpg",
+      "url": "/img/Catalogues/Casamientos/31.jpg",
       "description": "Description of Image31"
     },
     {
       "id": 32,
       "name": "Image32",
-      "url": "../../public/img/Catalogues/Casamientos/32.png",
+      "url": "/img/Catalogues/Casamientos/32.png",
       "description": "Description of Image32"
     },
     {
       "id": 33,
       "name": "Image33",
-      "url": "../../public/img/Catalogues/Casamientos/33.png",
+      "url": "/img/Catalogues/Casamientos/33.png",
       "description": "Description of Image33"
     },
     {
       "id": 34,
       "name": "Image34",
-      "url": "../../public/img/Catalogues/Casamientos/34.png",
+      "url": "/img/Catalogues/Casamientos/34.png",
       "description": "Description of Image34"
     },
     {
       "id": 35,
       "name": "Image35",
-      "url": "../../public/img/Catalogues/Casamientos/35.png",
+      "url": "/img/Catalogues/Casamientos/35.png",
       "description": "Description of Image35"
     },
     {
       "id": 36,
       "name": "Image36",
-      "url": "../../public/img/Catalogues/Casamientos/36.png",
+      "url": "/img/Catalogues/Casamientos/36.png",
       "description": "Description of Image36"
     },
     {
       "id": 37,
       "name": "Image37",
-      "url": "../../public/img/Catalogues/Casamientos/37.png",
+      "url": "/img/Catalogues/Casamientos/37.png",
       "description": "Description of Image37"
     },
     {
       "id": 38,
       "name": "Image38",
-      "url": "../../public/img/Catalogues/Casamientos/38.png",
+      "url": "/img/Catalogues/Casamientos/38.png",
       "description": "Description of Image38"
     }
   ]

@@ -3,133 +3,133 @@
       {
         "id": 1,
         "name": "Image1",
-        "url": "../../public/img/Catalogues/Quince/1.jpg",
+        "url": "/img/Catalogues/Quince/1.jpg",
         "description": "Description of Image1"
       },
       {
         "id": 2,
         "name": "Image2",
-        "url": "../../public/img/Catalogues/Quince/2.jpg",
+        "url": "/img/Catalogues/Quince/2.jpg",
         "description": "Description of Image2"
       },
       {
         "id": 3,
         "name": "Image3",
-        "url": "../../public/img/Catalogues/Quince/3.jpg",
+        "url": "/img/Catalogues/Quince/3.jpg",
         "description": "Description of Image3"
       },
       {
         "id": 4,
         "name": "Image4",
-        "url": "../../public/img/Catalogues/Quince/4.jpg",
+        "url": "/img/Catalogues/Quince/4.jpg",
         "description": "Description of Image4"
       },
       {
         "id": 5,
         "name": "Image5",
-        "url": "../../public/img/Catalogues/Quince/5.jpg",
+        "url": "/img/Catalogues/Quince/5.jpg",
         "description": "Description of Image5"
       },
       {
         "id": 6,
         "name": "Image6",
-        "url": "../../public/img/Catalogues/Quince/6.jpg",
+        "url": "/img/Catalogues/Quince/6.jpg",
         "description": "Description of Image6"
       },
       {
         "id": 7,
         "name": "Image7",
-        "url": "../../public/img/Catalogues/Quince/7.jpg",
+        "url": "/img/Catalogues/Quince/7.jpg",
         "description": "Description of Image7"
       },
       {
         "id": 8,
         "name": "Image8",
-        "url": "../../public/img/Catalogues/Quince/8.jpg",
+        "url": "/img/Catalogues/Quince/8.jpg",
         "description": "Description of Image8"
       },
       {
         "id": 9,
         "name": "Image9",
-        "url": "../../public/img/Catalogues/Quince/9.png",
+        "url": "/img/Catalogues/Quince/9.png",
         "description": "Description of Image9"
       },
       {
         "id": 10,
         "name": "Image10",
-        "url": "../../public/img/Catalogues/Quince/10.png",
+        "url": "/img/Catalogues/Quince/10.png",
         "description": "Description of Image10"
       },
       {
         "id": 11,
         "name": "Image11",
-        "url": "../../public/img/Catalogues/Quince/11.jpg",
+        "url": "/img/Catalogues/Quince/11.jpg",
         "description": "Description of Image11"
       },
       {
         "id": 12,
         "name": "Image12",
-        "url": "../../public/img/Catalogues/Quince/12.png",
+        "url": "/img/Catalogues/Quince/12.png",
         "description": "Description of Image12"
       },
       {
         "id": 13,
         "name": "Image13",
-        "url": "../../public/img/Catalogues/Quince/13.png",
+        "url": "/img/Catalogues/Quince/13.png",
         "description": "Description of Image13"
       },
       {
         "id": 14,
         "name": "Image14",
-        "url": "../../public/img/Catalogues/Quince/14.jpg",
+        "url": "/img/Catalogues/Quince/14.jpg",
         "description": "Description of Image14"
       },
       {
         "id": 15,
         "name": "Image15",
-        "url": "../../public/img/Catalogues/Quince/15.png",
+        "url": "/img/Catalogues/Quince/15.png",
         "description": "Description of Image15"
       },
       {
         "id": 16,
         "name": "Image16",
-        "url": "../../public/img/Catalogues/Quince/16.png",
+        "url": "/img/Catalogues/Quince/16.png",
         "description": "Description of Image16"
       },
       {
         "id": 17,
         "name": "Image17",
-        "url": "../../public/img/Catalogues/Quince/17.jpg",
+        "url": "/img/Catalogues/Quince/17.jpg",
         "description": "Description of Image17"
       },
       {
         "id": 18,
         "name": "Image18",
-        "url": "../../public/img/Catalogues/Quince/18.png",
+        "url": "/img/Catalogues/Quince/18.png",
         "description": "Description of Image18"
       },
       {
         "id": 19,
         "name": "Image19",
-        "url": "../../public/img/Catalogues/Quince/19.png",
+        "url": "/img/Catalogues/Quince/19.png",
         "description": "Description of Image19"
       },
       {
         "id": 20,
         "name": "Image20",
-        "url": "../../public/img/Catalogues/Quince/20.png",
+        "url": "/img/Catalogues/Quince/20.png",
         "description": "Description of Image20"
       },
       {
         "id": 21,
         "name": "Image21",
-        "url": "../../public/img/Catalogues/Quince/21.png",
+        "url": "/img/Catalogues/Quince/21.png",
         "description": "Description of Image21"
       },
       {
         "id": 22,
         "name": "Image22",
-        "url": "../../public/img/Catalogues/Quince/22.png",
+        "url": "/img/Catalogues/Quince/22.png",
         "description": "Description of Image22"
       }
     ]

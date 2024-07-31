@@ -5,10 +5,10 @@ const Footer = () => {
     <>
     <footer className='footer'>
         <div className="img-footer">
-            <img src="../../public/img/logos/LgCircle-fotor.png" alt="" />
+            <img src="/img/logos/LgCircle-fotor.png" alt="" />
         </div>
         <div className="footer-text">
-        <img src="../../public/img/logos/Logo.png" alt="" />
+        <img src="/img/logos/Logo.png" alt="" />
             <h1 className='footer-title'>Coquette</h1>
         </div>
     </footer>
