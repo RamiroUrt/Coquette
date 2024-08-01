@@ -1,5 +1,5 @@
 import './Topics.css'
-import Casamineto from '../../../public/img/portadas/Casamiento.jpg'
+import Casamineto from '../../../public/img/portadas/Casamiento.webp'
 
 
 const Casamientos = () => {

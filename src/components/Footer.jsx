@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 
-import Logo from '../../public/img/logos/LgCircle-fotor.png';
+import Logo from '../../public/img/logos/LgCircle-fotor.webp';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 const Footer = () => {
@@ -13,7 +13,7 @@ const Footer = () => {
         className="footer-img"
         effect="blur"
         placeholderSrc={Logo}
-        src="/img/logos/Logo.png" alt="" />
+        src="/img/logos/Logo.webp" alt="" />
             <h1 className='footer-title'>Coquette</h1>
         </div>
         <div className="img-footer">
@@ -21,7 +21,7 @@ const Footer = () => {
               <LazyLoadImage
               effect="blur"
               placeholderSrc={Logo}
-              src="/img/logos/LgCircle-fotor.png" alt="" />
+              src="/img/logos/LgCircle-fotor.webp" alt="" />
             </Link>
         </div>
     </footer>

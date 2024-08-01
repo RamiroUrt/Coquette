@@ -4,7 +4,7 @@ import Footer from "../components/Footer"
 import { useEffect } from 'react';
 
 import ModuleParallax from '../components/ModuleParallax/ModuleParallax'
-import FotCatalogue from '../../public/img/ParallaxHome.png'
+import FotCatalogue from '../../public/img/ParallaxHome.webp'
 import Catalogues from '../components/Catalogues'
 
 const Catalogue = () => {

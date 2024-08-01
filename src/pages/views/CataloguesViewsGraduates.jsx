@@ -3,7 +3,7 @@ import Footer from '../../components/Footer';
 import Nav from '../../components/Nav';
 
 import ModuleParallax from '../../components/ModuleParallax/ModuleParallax';
-import Portada from '../../../public/img/portadas/Catalogue.png';
+import Portada from '../../../public/img/portadas/Catalogue.webp';
 import GalleryViews from '../../components/Topics/GalleryViews';
 
 import egresadasData from '../../assets/json/Egresadas.json';

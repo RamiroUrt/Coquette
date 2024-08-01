@@ -35,7 +35,7 @@ const ParticlesBackground = () => {
         },
         modes: {
           push: {
-            quantity: 4,
+            quantity: 1,
           },
           repulse: {
             distance: 200,
@@ -68,7 +68,7 @@ const ParticlesBackground = () => {
           density: {
             enable: true,
           },
-          value: 80,
+          value: 50,
         },
         opacity: {
           value: 0.5,

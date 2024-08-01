@@ -12,7 +12,7 @@ import { Icon } from 'leaflet'
 const position = [-34.602641, -58.466618]
         
 const customIcon  = new Icon({
-    iconUrl: '/img/logos/LgCircle-fotor.png',
+    iconUrl: '/img/logos/LgCircle-fotor.webp',
     iconSize: [30, 30],
 });
 

@@ -1,7 +1,7 @@
 import { Parallax } from 'react-parallax'
 import '../components/ModuleParallax/Parallax.css'
 
-import Bground from '../../public/img/portadas/FondoCat.png'
+import Bground from '../../public/img/portadas/FondoCat.webp'
 
 import Casamientos from './Topics/Casamientos'
 import Graduates from './Topics/Graduates'

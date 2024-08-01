@@ -1,10 +1,10 @@
 import { Parallax } from 'react-parallax'
-import LogoCircle from '../../public/img/logos/LgCircle-fotor.png'
+import LogoCircle from '../../public/img/logos/LgCircle-fotor.webp'
 
 import Atropos from 'atropos/react';
 import ParticlesBackground from './ParticlesBg/ParticlesBackground';
 
-import Logo from '../../public/img/logos/LgCircle-fotor.png';
+import Logo from '../../public/img/logos/LgCircle-fotor.webp';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 const Header = () => {

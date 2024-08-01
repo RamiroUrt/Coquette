@@ -1,5 +1,5 @@
 import './Topics.css'
-import GraduatesPort from '../../../public/img/portadas/graduates.jpg'
+import GraduatesPort from '../../../public/img/portadas/graduates.webp'
 
 const Graduates = () => {
   return (

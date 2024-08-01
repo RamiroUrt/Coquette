@@ -49,32 +49,32 @@ export default Galery
 
 const itemData = [
   {
-    img: '/img/galery/1.jpg',
+    img: '/img/galery/1.webp',
     rows: 3,
     cols: 2,
   },
   {
-    img: '/img/galery/2.jpg',
+    img: '/img/galery/2.webp',
     rows: 1,
     cols: 2,
   },
   {
-    img: '/img/galery/3.jpg',
+    img: '/img/galery/3.webp',
     rows: 1,
     cols: 1,
   },
   {
-    img: '/img/galery/6.jpg',
+    img: '/img/galery/6.webp',
     rows: 1,
     cols: 1,
   },
   {
-    img: '/img/galery/4.jpg',
+    img: '/img/galery/4.webp',
     cols: 2,
     rows: 2,
   },
   {
-    img: '/img/galery/5.jpg',
+    img: '/img/galery/5.webp',
     cols: 2,
     rows: 1
   },

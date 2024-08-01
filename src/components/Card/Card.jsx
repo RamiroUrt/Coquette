@@ -41,7 +41,7 @@
 /* eslint-disable react/prop-types */
 
 import '../Topics/Topics.css';
-import Logo from '../../../public/img/logos/LgCircle-fotor.png';
+import Logo from '../../../public/img/logos/LgCircle-fotor.webp';
 
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import 'react-lazy-load-image-component/src/effects/blur.css';

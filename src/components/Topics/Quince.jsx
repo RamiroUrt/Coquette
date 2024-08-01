@@ -1,5 +1,5 @@
 import './Topics.css'
-import Quinciañera from '../../../public/img/portadas/Quinciañera.jpg'
+import Quinciañera from '../../../public/img/portadas/Quinciañera.webp'
 
 const Quince = () => {
   return (
