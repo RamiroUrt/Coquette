@@ -22,7 +22,7 @@ const CotaintMap = () => {
 
     <section className="contain-map">
         <div>
-            <h1 className="map-title">¿Donde encontrarnos?</h1>
+            <h1 className="map-title">Where to find us?</h1>
         </div>
         <div className="map">
             <MapContainer center={position} zoom={40} scrollWheelZoom={true}>
