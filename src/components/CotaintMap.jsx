@@ -36,7 +36,7 @@ const CotaintMap = () => {
             <p>Av. S. Martín 2936</p>
         </div>
         <div className="map-redes">
-            <h1 className="map-title">Redes</h1>
+            <h1 className="map-title">Networks</h1>
         </div>
         <div className="links-redes">
             <div className="ig cursor-pointer">

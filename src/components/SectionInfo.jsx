@@ -37,31 +37,3 @@ const SectionInfo = () => {
 
 export default SectionInfo;
 
-
-// import Shipping from './Carrousel/Shipping'
-// import Saw from './Carrousel/Saw'
-// import Card from './Carrousel/Card'
-// import Contact from './Carrousel/Contact'
-
-// const SectionInfo = () => {
-//   return (
-//     <div className='section-info'>
-//         <div className="carrousel">
-//             <div className="shipping-cont">
-//               <Shipping/>
-//             </div>
-//             <div className="custom-cont">
-//               <Saw />
-//             </div>
-//             <div className="card-cont">
-//               <Card />
-//             </div>
-//             <div className="contact-cont">
-//               <Contact />
-//             </div>
-//         </div>
-//     </div>
-//   )
-// }
-
-// export default SectionInfo

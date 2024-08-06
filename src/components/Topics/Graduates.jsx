@@ -7,7 +7,7 @@ const Graduates = () => {
         <div className="container-topic">
             <img src={GraduatesPort} alt="" className='img-topic'/>
             <div className="text-topic">
-            <h1>graduación</h1>
+            <h1>graduation</h1>
             </div>
         </div>
     </>

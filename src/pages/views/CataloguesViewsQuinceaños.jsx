@@ -18,7 +18,7 @@ const CataloguesViewsQuinceaños = () => {
   return (
     <> 
     <Nav />
-    <ModuleParallax img={Portada} text={'Quinceaños'} />
+    <ModuleParallax img={Portada} text={'Fifteen years'} />
     <GalleryViews data={quinceData.images}/>
     <Footer />
   </>

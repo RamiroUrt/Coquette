@@ -7,7 +7,7 @@ const Casamientos = () => {
     <div className="container-topic">
       <img src={Casamineto} alt="" className='img-topic'/>
         <div className="text-topic">
-          <h1>casamientos</h1>
+          <h1>weddings</h1>
         </div>
     </div>
   )

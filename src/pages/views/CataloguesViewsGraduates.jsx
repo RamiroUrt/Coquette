@@ -17,7 +17,7 @@ const CataloguesViewsGraduates = () => {
   return (
     <> 
     <Nav />
-    <ModuleParallax img={Portada} text={'Graduacion'} />
+    <ModuleParallax img={Portada} text={'Graduation'} />
     <GalleryViews data={egresadasData.images}/>
     <Footer />
   </>

@@ -6,7 +6,7 @@ const Quince = () => {
         <div className="container-topic">
             <img src={Quinciañera} alt="" className='img-topic'/>
             <div className="text-topic">
-              <h1>quinceaños</h1>
+              <h1>fifteen years</h1>
             </div>
         </div>
   )

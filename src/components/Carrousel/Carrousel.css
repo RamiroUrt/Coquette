@@ -4,22 +4,20 @@
     background-color: rgb(255, 255, 255);
     display: flex;
     height: auto;
-    justify-content: center;
     align-items: center;
+    justify-content: space-around;
     gap: 5rem;
     overflow-x: auto;
     cursor: grab;
 }
 
 .contenedor-carr {
-    width: auto;
-    max-width: 400px;
-    height: auto; /* Ajustar la altura para que se adapte al contenido */
+    width: 300px;
+    height: auto;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    text-wrap: wrap;
     padding: 20px;
 }
 
@@ -27,7 +25,6 @@
     font-weight: 600;
     display: flex;
     justify-content: center;
-    flex-direction: column;
     padding-top: 1rem;
 }
 

@@ -27,7 +27,7 @@ const Footer = () => {
     </footer>
     <hr />
     <div className="derechos">
-        <p> Coquette © 2024 Todos los derechos reservados</p>
+        <p> Coquette © 2024 All rights reserved</p>
     </div>
     </>
   )

@@ -6,17 +6,17 @@ const Catalogues = () => {
     <>
     <section className="section-catalogue">
       <div className="text-catalogue">
-        <h1>VESTIDOS ELEGANTES Y DE GALA</h1>
-        <h2>DISEÑOS DE ALTA COSTURA</h2>
+        <h1>ELEGANT AND GALA DRESSES</h1>
+        <h2>HAUTE COUTURE DESIGNS</h2>
         <p className="p-cat">
-        En Coquette diseñamos vestidos elegantes y artesanales que te hacen lucir actual, cómoda y realzan tu belleza natural. Nos definimos por nuestro amor al diseño y los detalles, creando piezas sublimes y exclusivas para que cada mujer se sienta excepcional. Nuestra marca celebra la esencia femenina, con diseños audaces, versátiles y distinguidos. En todo el proceso de diseño, nuestro equipo se enfoca en la calidad y la distinción, creando vestidos de día y noche que evolucionan con las tendencias. Nuestras colecciones incluyen vestidos cortos y largos de alta costura, combinando contrastes, tejidos naturales, transparencias, cortes y bordados artesanales.
+        At Coquette, we design elegant and handcrafted dresses that make you look modern, comfortable, and enhance your natural beauty. We define ourselves by our love for design and details, creating sublime and exclusive pieces so that every woman feels exceptional. Our brand celebrates the feminine essence with bold, versatile, and distinguished designs. Throughout the design process, our team focuses on quality and distinction, creating day and night dresses that evolve with trends. Our collections include short and long haute couture dresses, combining contrasts, natural fabrics, transparencies, cuts, and handcrafted embroidery.
         <br/>
-        Los vestidos de gala son otro distintivo de nuestra firma, diseñados a medida con bordados personalizados, faldas al cuerpo y detalles delicados que aportan distinción, romanticismo y sensualidad. Ofrecemos piezas originales y exclusivas para todo tipo de ocasiones, desde quinceañeras hasta novias y eventos de gala.
+        Gala dresses are another hallmark of our brand, custom-designed with personalized embroidery, body-hugging skirts, and delicate details that bring distinction, romance, and sensuality. We offer original and exclusive pieces for all kinds of occasions, from quinceañeras to brides and gala events.
         <br/>
-        Descubre nuestras colecciones únicas en la tienda online o agenda una cita en nuestro Atelier en Recoleta, donde celebraremos la alta costura y encontraremos el modelo perfecto para ti.
+        Discover our unique collections in the online store or schedule an appointment at our Atelier in Recoleta, where we celebrate haute couture and find the perfect model for you.
         </p>
         <br></br>
-        <b className="text-xl">Bienvenida</b>
+        <b className="text-xl">Welcome!</b>
       </div>
       <section className="catalogue-shop">
         <Shop />

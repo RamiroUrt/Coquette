@@ -1,8 +1,9 @@
 import { Link, Outlet } from 'react-router-dom';
-import { useState, useEffect } from 'react';
+import { useState, useEffect} from 'react';
 import { Ellipsis, X } from 'lucide-react';
 
 import LogoCot from '../../public/img/logos/CoquetteSinFondo.webp';
+
 
 const Nav = () => {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -61,7 +62,7 @@ const Nav = () => {
           </>
         )}
       </nav>
-      <Outlet />
+        <Outlet />
     </>
   );
 };
